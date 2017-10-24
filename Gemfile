@@ -25,10 +25,3 @@ group :jekyll_plugins do
    gem "jekyll-paginate"
    gem 'jekyll-sitemap'
 end
-
-
-# For heroku deploy
-gem 'kramdown'
-gem 'rack-jekyll'
-gem 'rake'
-gem 'puma'
