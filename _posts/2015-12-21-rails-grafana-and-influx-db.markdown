@@ -2,6 +2,9 @@
 layout: post
 title:  "Rails, Grafana And InfluxDB"
 date:   2015-12-21 18:00:00
+redirect_from:
+  - /index.php/2015/12/21/hello-world/
+tags: [rails,grafana,influxdb,metrics,app,site]
 ---
 
 What is Grafana. It is "The leading graph and dashboard builder for visualizing time series metrics." and it is open source. <a href="http://grafana.org/" target="_blank">http://grafana.org/</a>

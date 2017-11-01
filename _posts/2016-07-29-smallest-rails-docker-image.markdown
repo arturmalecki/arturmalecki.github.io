@@ -3,6 +3,9 @@ layout: post
 title:  "Smallest Rails Docker Image"
 date:   2016-07-29 18:00:00
 categories: Docker
+redirect_from:
+  - /index.php/2016/07/29/smallest-rails-docker-image/
+tags: [docker,docker image,rails docker,small rails image,small docker image,rails alpine,docker alpine,ruby alpine,ruby,rails]
 ---
 
 This is quick post about how to get smallest image for Rails 5 application.

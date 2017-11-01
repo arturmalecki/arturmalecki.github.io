@@ -3,9 +3,13 @@ layout: post
 title:  "Swagger integration with Rails"
 date:   2016-10-08 18:00:00
 categories: Docker
+redirect_from:
+  - /index.php/2016/10/08/swagger-integration-with-rails/
+tags: [swagger ui,rails,docker,swagger integration,docker-compose,swagger integration with rails]
 ---
 
 Documentation is very important part of developing an application. Especially if you have to work with more then one. Nowadays when microservices approach is so common is even more important. This is why I would like to write quick blog post how to use swagger-ui with rails. I will cover two cases. When you want to use swagger ui as part of application/service or as separate service.
+
 <h2>TL;DR</h2>
 You can find full example here: <a href="https://github.com/arturmalecki/rails_swagger">https://github.com/arturmalecki/rails_swagger</a>
 <h2>swagger-ui</h2>

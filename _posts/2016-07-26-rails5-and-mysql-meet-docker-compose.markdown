@@ -3,10 +3,12 @@ layout: post
 title:  "Rails 5 and Mysql meet Docker Compose"
 date:   2016-07-26 18:00:00
 categories: Docker
+redirect_from:
+  - /index.php/2016/07/26/rails-5-and-mysql-meet-docker-compose/
+tags: [docker,docker compose,docker rails,docker compose rails,rails 5,mysql,rails container]
 ---
 
-<h2><strong>TL;DR</strong></h2>
-Docker  compose is awesome and at least you have to give it a try!
+Docker compose is awesome and you have to give it a try!
 
 <a href="https://github.com/arturmalecki/rails_5_mysql_docker_compose">https://github.com/arturmalecki/rails_5_mysql_docker_compose</a>
 <h2><strong>What is docker compose?</strong></h2>

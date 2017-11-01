@@ -3,6 +3,9 @@ layout: post
 title:  "Rails 5 on Docker"
 date:   2016-03-05 18:00:00
 categories: Docker
+redirect_from:
+  - /index.php/2016/03/05/rails-5-on-docker/
+tags: [docker,rails,rails 5,web development,container,containers,virtualization,ruby,dev ops]
 ---
 
 In this short post I will describe how easily you can setup docker on Rails application.

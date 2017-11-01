@@ -3,6 +3,9 @@ layout: post
 title:  "Docker bundler caching - Pro Tips #1"
 date:   2016-04-22 18:00:00
 categories: Docker
+redirect_from:
+  - /index.php/2016/04/22/avoid-installing-gems-on-each-docker-image-build-pro-tips-1/
+tags: [docker,rails,rails 5,web development,container,containers,virtualization,ruby,dev ops,gems,bundler,bundle install,bundler caching,docker bundler]
 ---
 
 This time I would like to share with some small tip how to improve docker file for Rails application.
