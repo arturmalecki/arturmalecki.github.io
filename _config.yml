@@ -3,7 +3,7 @@ description: Another tech blog
 meta_description: "devcherry.com, Another tech blog"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: 
